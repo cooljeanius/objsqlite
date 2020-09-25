@@ -1,0 +1,4 @@
+*.a
+src/build/*
+*.pbxuser
+*.perspectivev3
